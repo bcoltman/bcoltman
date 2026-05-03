@@ -27,6 +27,6 @@ I'm a human trying to make sense of the complexity of biology. I like to combine
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bcoltman&theme=cobalt&show_icons=true&include_all_commits=true)](https://github.com/bcoltman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bcoltman&layout=compact&theme=cobalt&card_width=340)](https://github.com/bcoltman)
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=bcoltman&theme=cobalt&show_icons=true&include_all_commits=true)](https://github.com/bcoltman)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=bcoltman&layout=compact&theme=cobalt&card_width=340)](https://github.com/bcoltman)
 
